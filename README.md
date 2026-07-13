@@ -299,3 +299,5 @@ Future enhancements of this project include :
 	Tableau Desktop Documentation
 	Data Analytics and Business Intelligence learning materials.
 	Sample Superstore Dataset (Kaggle)
+the github link is:
+https://github.com/kvsmanidhar2007-collab/minorproject
